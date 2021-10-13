@@ -24,9 +24,7 @@ App Service Application URL: http://flightfareestimator.azurewebsites.net</p>
 link : https://hub.docker.com/repository/docker/rohanbagulwar/flight_finalapi
 
 
-## UserInterface
-![MainUI](https://user-images.githubusercontent.com/40850370/129313161-b74283ea-0ad7-4e7e-a196-578dc2ed49ef.png)
-![DatabaseUI](https://user-images.githubusercontent.com/40850370/129313188-893dd686-5452-445d-a1ed-478ba17089c1.png)
+
 
 ## Technologies Used
 <pre> 
@@ -42,8 +40,6 @@ link : https://hub.docker.com/repository/docker/rohanbagulwar/flight_finalapi
 
 </pre>
 
-## HLD , LLD & WireFrame
-link : https://drive.google.com/drive/folders/1S3Ij3Sw2LRjYfrC1WaC8L6gfAg_96Dvy
 
 ## Help Me Improve
 <p> Hello Reader if you find any bug please consider raising issue I will address them asap.</p>
